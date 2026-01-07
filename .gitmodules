@@ -1,0 +1,6 @@
+[submodule "phemote-control"]
+	path = phemote-control
+	url = https://github.com/iqnite/phemote-control
+[submodule "phemote-desktop"]
+	path = phemote-desktop
+	url = https://github.com/iqnite/phemote-desktop
